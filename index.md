@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Joel Lindner
+description: My personal web site for development
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
