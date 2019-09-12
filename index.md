@@ -1,6 +1,6 @@
 ---
 title: Joel Lindner
-image: assets/images/Pictures/Profile_Pic_1.jpg)
+image: assets/images/Pictures/(Profile_Pic_1.jpg)
 description: My personal web site for development
 ---
 
