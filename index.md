@@ -5,4 +5,4 @@ description: My personal web site for development
 
 This is content I've developed for my courses:
 
-[Time Series Decomposition](/timeseries/index.md)
+[Time Series Decomposition](/time series/index.md)
