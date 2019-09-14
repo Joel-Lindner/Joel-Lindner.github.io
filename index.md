@@ -16,5 +16,5 @@ Below is content that I have developed for my MSBA program:
 
 
 ### Link to my William and Mary Repository:
--[Sample Repository](https://github.com/Joel-Lindner/William-and-Mary)
+-[Repository](https://github.com/Joel-Lindner/William-and-Mary)
 
