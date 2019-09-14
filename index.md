@@ -11,7 +11,7 @@ Below is content that I have developed for my MSBA program:
 
 
 
-[Python Graphing Assignments](/Graphing Assignments/index.md
+[Python Graphing Assignments](/Graphing Assignments/index.md)
 
 
 
