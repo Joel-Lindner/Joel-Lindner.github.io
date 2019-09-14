@@ -3,7 +3,7 @@ title: Joel Lindner
 description: My personal web site for development
 ---
 
-![My Picture](/Pictures/Profile_Pic_1.jpg)
+![My Picture](/Pictures/Profile_Pic_1.jpg){:height="50%" width="50%"}
 
 Below is content that I have developed for my MSBA program:
 
