@@ -3,7 +3,7 @@ title: Time Series Decomposition
 description: Analysis completed in Python
 ---
 
-### Below are links to a Time Series Decomposition analysis I completed in my Competing Through Business Analytics couse:
+## Below are links to a Time Series Decomposition analysis I completed in my Competing Through Business Analytics couse:
 
 - [Time Series Decomposition (html)](M3 Time Series Decomposition Analysis.html)
 
@@ -11,6 +11,6 @@ description: Analysis completed in Python
 - [Time Series Decomposition (ipynb)](M3 Time Series Decomposition Analysis.ipynb)
 
 
-## Back to homepage:
+### Back to homepage:
 
 [Homepage](https://joel-lindner.github.io/)
