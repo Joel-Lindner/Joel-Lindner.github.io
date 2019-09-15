@@ -9,3 +9,8 @@ description: Analysis completed in Python
 
 
 - [Time Series Decomposition (ipynb)](M3 Time Series Decomposition Analysis.ipynb)
+
+
+## Back to homepage:
+
+[Homepage](https://joel-lindner.github.io/)
