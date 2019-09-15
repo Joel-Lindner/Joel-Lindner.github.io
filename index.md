@@ -1,6 +1,6 @@
 ---
 title: Joel Lindner
-description: My personal web site for development
+description: My portfolio of development projects
 ---
 
 ![My Picture](/Pictures/Profile_Pic_1.jpg)
