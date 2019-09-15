@@ -7,11 +7,11 @@ description: My portfolio of development projects
 
 ### Below is content that I have developed for my MSBA program:
 
-[Time Series Decomposition](/Time Series/index.md)
+- [Time Series Decomposition](/Time Series/index.md)
 
 
 
-[Python Graphing Assignments](/Graphing Assignments/index.md)
+- [Python Graphing Assignments](/Graphing Assignments/index.md)
 
 
 
