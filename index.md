@@ -5,7 +5,7 @@ description: My personal web site for development
 
 ![My Picture](/Pictures/Profile_Pic_1.jpg)
 
-Below is content that I have developed for my MSBA program:
+### Below is content that I have developed for my MSBA program:
 
 [Time Series Decomposition](/Time Series/index.md)
 
